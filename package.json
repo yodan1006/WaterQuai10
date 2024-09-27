@@ -1,0 +1,23 @@
+{
+  "name": "be.brandon.waterquai",
+  "version": "0.0.1",
+  "displayName": "Shape of the Water at Quai10",
+  "description": "This is my space in the Quai10 for water",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+    "com.unity.probuilder": "5.2.3"
+  },
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "Example d'utilisation de l'outil.",
+      "path": "Scene/Demo"
+    }
+  ],
+  "author": {
+    "name": "Brandon Decarpentrie",
+    "email": "yodanbrandon@gmail.com",
+    "url": "github.com/yodan1006"
+  }
+}
